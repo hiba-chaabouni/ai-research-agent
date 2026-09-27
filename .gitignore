@@ -1,0 +1,19 @@
+# Secrets
+.env
+sample.env
+
+# Virtual environment (very important - never upload this)
+venv/
+pyvenv.cfg
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Output files
+research_output.txt
+
+# System files
+.DS_Store
+Thumbs.db
